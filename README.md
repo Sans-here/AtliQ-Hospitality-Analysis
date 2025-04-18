@@ -19,7 +19,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
 ## Comprehensive analysis View
 
 <p align="center">
-    <img src='https://github.com/Naveen-S6/AtliQ_Hospitality_Analysis_PowerBI/blob/main/resources/overall_view.png' width="600">
+    <img src='https://github.com/Sans-here/AtliQ-Hospitality-Analysis/blob/main/Hospitality%20Dashboard.png' width="600">
 </p>
 
 ## Business Class Analysis
