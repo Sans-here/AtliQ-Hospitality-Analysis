@@ -16,7 +16,7 @@ You are a data analyst who has been provided with sample data and a mock-up dash
     <img src="https://github.com/Sans-here/AtliQ-Hospitality-Analysis/blob/main/mock%20up%20dashboard_atliq%20grands.png" width="600">
 </p>
 
-## Comprehensive analysis View
+## Aggregate Overview analysis
 
 <p align="center">
     <img src='https://github.com/Sans-here/AtliQ-Hospitality-Analysis/blob/main/Hospitality%20Dashboard.png' width="600">
